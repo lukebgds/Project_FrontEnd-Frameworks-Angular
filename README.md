@@ -12,11 +12,10 @@
 ### Integrantes do Grupo/Autores: 
 
 1. **Luiz Eduardo Negri Silva Calábria** 
-2. **Marcos Eduardo** 
-3. **Rodin Sarmento** 
-4. **Rhyan Carlos da silva Lima** 
-5. **Diogo josé do Nascimento silva** 
-6. **Lucas Benício Gusmão da Silva** 
+2. **Marcos Eduardo**  
+3. **Rhyan Carlos da silva Lima** 
+4. **Diogo josé do Nascimento silva** 
+5. **Lucas Benício Gusmão da Silva** 
 
 ``Todos os Direitos Reservados``
 
